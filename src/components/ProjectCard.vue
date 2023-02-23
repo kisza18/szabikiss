@@ -1,7 +1,7 @@
 <template>
   <div class="project-card">
     <div
-      class="card rounded-xl shadow-lg hover:shadow-xl cursor-pointer bg-socialcardgray text-center overflow-hidden hover:scale-105 duration-500 dark:bg-textgray"
+      class="card rounded-xl shadow-lg hover:shadow-xl cursor-pointer bg-socialcardgray text-center overflow-hidden hover:scale-105 duration-500 dark:bg-projectcard"
     >
       <div
         :style="{ backgroundColor: color1 }"
@@ -10,17 +10,21 @@
         <img class="rounded-xl shadow-lg" :src="source" alt="" />
       </div>
       <div class="content mb-8 mt-8">
-        <h1 class="text-2xl font-semibold text-textdark mb-3">{{ name }}</h1>
+        <h1
+          class="text-2xl font-semibold text-textdark mb-3 dark:text-textlight"
+        >
+          {{ name }}
+        </h1>
         <div class="flex items-center justify-center gap-3">
           <a
-            class="hover:text-buttonblue duration-300 dark:hover:text-textlight"
+            class="hover:text-buttonblue duration-300 dark:text-textgray dark:hover:text-textlight"
             :href="github"
             target="_blank"
             >github</a
           >
           <h1>|</h1>
           <a
-            class="hover:text-buttonblue duration-300 dark:hover:text-textlight"
+            class="hover:text-buttonblue duration-300 dark:text-textgray dark:hover:text-textlight"
             :href="page"
             target="_blank"
             >page</a

@@ -3,9 +3,11 @@
     <PageLayout>
       <GlobalLayout class="relative">
         <div
-          class="home-container flex w-full pt-20 px-10 items-center justify-between"
+          class="home-container flex w-full pt-20 px-5 md:px-10 items-center justify-between"
         >
-          <div class="content w-1/2 -mt-20 text-textdark dark:text-textlight">
+          <div
+            class="content w-full md:w-1/2 -mt-20 text-textdark dark:text-textlight"
+          >
             <div class="content-container">
               <h1 class="text-6xl mb-3">Hi, I am Szabi</h1>
               <p

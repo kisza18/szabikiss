@@ -2,16 +2,16 @@
   <div id="projects-page">
     <PageLayout>
       <GlobalLayout>
-        <div class="portfolio-container w-full px-10 pt-40">
+        <div class="portfolio-container w-full px-5 md:px-10 pt-32 md:pt-40">
           <div class="content w-full flex items-center justify-center">
             <h1
-              class="text-5xl font-semibold text-textdark dark:text-textlight"
+              class="text-3xl md:text-5xl text-center font-semibold text-textdark dark:text-textlight"
             >
               Projects Portfolio
             </h1>
           </div>
           <div
-            class="card-container grid grid-cols-3 gap-10 justify-center w-full text-center my-20 px-12"
+            class="card-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 justify-center w-full text-center my-20 md:px-12"
           >
             <ProjectCard
               src="bunq.png"

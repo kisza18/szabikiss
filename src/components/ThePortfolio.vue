@@ -1,14 +1,16 @@
 <template>
   <div class="the-portfolio pt-20">
     <GlobalLayout>
-      <div class="portfolio-container w-full px-10 pb-10">
+      <div class="portfolio-container w-full px-5 md:px-10 pb-10">
         <div class="content w-full flex items-center justify-center">
-          <h1 class="text-5xl font-semibold text-textdark dark:text-textlight">
+          <h1
+            class="text-3xl md:text-5xl text-center font-semibold text-textdark dark:text-textlight"
+          >
             Projects Portfolio
           </h1>
         </div>
         <div
-          class="card-container grid grid-cols-3 gap-10 justify-center w-full text-center mt-20 px-12"
+          class="card-container grid md:grid-cols-2 lg:grid-cols-3 gap-10 justify-center w-full text-center mt-20 md:px-12"
         >
           <ProjectCard
             src="bunq.png"
@@ -30,6 +32,14 @@
             github="https://github.com/kisza18/planets"
             page="https://kisza18-planetsfact.netlify.app"
             color1="#B8E8FC"
+          />
+          <ProjectCard
+            class="hidden md:flex lg:hidden"
+            src="apple.png"
+            name="Apple"
+            github="https://github.com/kisza18/apple"
+            page="https://kisza18-applecopy.netlify.app/"
+            color1="#F8EDE3"
           />
         </div>
       </div>
