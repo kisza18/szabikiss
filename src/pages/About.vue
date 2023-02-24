@@ -14,15 +14,10 @@
             <h1
               class="text-textdark leading-8 text-justify dark:text-textlight"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Voluptates, temporibus dignissimos nulla dolorem quo eaque ad
-              dicta repellat sint deleniti. Odio sint, alias asperiores fuga in
-              quasi obcaecati recusandae voluptate illo omnis fugit, dignissimos
-              consequuntur nihil aut beatae tempora reiciendis nesciunt
-              necessitatibus, aspernatur libero voluptatem neque. Aliquid
-              consequuntur harum debitis, odio quae voluptatibus cum in minus
-              quidem amet sequi officiis consectetur animi vero inventore
-              obcaecati perferendis eum pariatur cupiditate vitae.
+              Currently I'm not working as a developer, but I spend all my free
+              time to learn front end development. I have already acquired many
+              skills and knowledge, however I'm open to learn more and I would
+              like to work on live projects.
             </h1>
           </div>
         </div>

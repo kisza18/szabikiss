@@ -16,7 +16,7 @@
                 Frontend Developer
               </p>
               <a
-                href="https://1drv.ms/u/s!Aj35b7iZc6S1gP4g7G66Mrhk5N5fAw?e=d85QkG"
+                href="https://1drv.ms/u/s!Aj35b7iZc6S1gP4h4E1Z1kAcseqYmg?e=3HIec7"
                 target="_blank"
                 class="w-52 flex items-center text-lg py-2 px-4 bg-button text-textdark border-2 border-buttonblue tracking-wide rounded-lg shadow-lg hover:bg-buttonblue duration-300"
               >
