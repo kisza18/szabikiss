@@ -133,6 +133,7 @@ function toggleNav() {
   navBar.classList.toggle("change");
   navBarMenu.classList.toggle("hide_nav");
   toggleMenu.value = !toggleMenu.value;
+  window.scrollTo(0, 0);
 
   body.style.overflow === ""
     ? (body.style.overflow = "hidden")

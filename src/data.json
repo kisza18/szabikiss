@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "src/assets/images/page-photos/bunq.png",
+    "name": "Bunq",
+    "github": "https://github.com/kisza18/bunq",
+    "page": "https://kisza18-bunq.netlify.app/",
+    "background": "#FAAB78"
+  },
+  {
+    "id": 2,
+    "image": "src/assets/images/page-photos/audiophile.png",
+    "name": "Audiophile",
+    "github": "https://github.com/kisza18/audiophile",
+    "page": "https://kisza18-audiophile.netlify.app/",
+    "background": "#F8C4B4"
+  },
+  {
+    "id": 3,
+    "image": "src/assets/images/page-photos/planets.png",
+    "name": "Planets",
+    "github": "https://github.com/kisza18/planets",
+    "page": "https://kisza18-planetsfact.netlify.app/",
+    "background": "#B8E8FC"
+  },
+  {
+    "id": 4,
+    "image": "src/assets/images/page-photos/apple.png",
+    "name": "Apple",
+    "github": "https://github.com/kisza18/apple",
+    "page": "https://kisza18-applecopy.netlify.app/",
+    "background": "#F8EDE3"
+  },
+  {
+    "id": 5,
+    "image": "src/assets/images/page-photos/blogr.png",
+    "name": "Blogr",
+    "github": "https://github.com/kisza18/blogr",
+    "page": "https://kisza18-blogr.netlify.app/",
+    "background": "#CDF0EA"
+  },
+  {
+    "id": 6,
+    "image": "src/assets/images/page-photos/microsoft.png",
+    "name": "Microsoft",
+    "github": "https://github.com/kisza18/microsoft",
+    "page": "https://kisza18-microsoftcopy.netlify.app/",
+    "background": "#FCF9BE"
+  },
+  {
+    "id": 7,
+    "image": "src/assets/images/page-photos/sunnyside.png",
+    "name": "Sunnyside",
+    "github": "https://github.com/kisza18/sunnyside",
+    "page": "https://kisza18-sunnyside.netlify.app/",
+    "background": "#F7F6DC"
+  }
+]
