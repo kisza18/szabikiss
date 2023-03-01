@@ -15,18 +15,13 @@
               >
                 Frontend Developer
               </p>
-              <a
-                href="https://1drv.ms/u/s!Aj35b7iZc6S1gP4h4E1Z1kAcseqYmg?e=3HIec7"
-                target="_blank"
-                class="w-52 flex items-center text-lg py-2 px-4 bg-button text-textdark border-2 border-buttonblue tracking-wide rounded-lg shadow-lg hover:bg-buttonblue duration-300"
+              <router-link
+                to="/contact"
+                class="w-52 flex items-center justify-center text-lg py-2 px-4 bg-button text-textdark border-2 border-buttonblue tracking-wide rounded-lg shadow-lg hover:bg-buttonblue duration-300"
               >
-                <img
-                  class="w-7 mr-2"
-                  src="../assets/images/arrow_down.svg"
-                  alt=""
-                />
-                Download CV
-              </a>
+                <img class="w-6 mr-2" src="../assets/images/send.png" alt="" />
+                Contact Me
+              </router-link>
             </div>
           </div>
           <div class="image w-1/2 z-10">

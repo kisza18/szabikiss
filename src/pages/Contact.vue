@@ -15,7 +15,7 @@
                 Contact Form
               </h1>
               <form
-                action="https://formsubmit.co/szabolcs17@gmail.com"
+                action="https://formsubmit.co/3a8fc293f830ac77d2f797c749103bd2"
                 method="POST"
               >
                 <div class="fullname flex flex-col">
@@ -47,7 +47,7 @@
                   <input
                     type="hidden"
                     name="_next"
-                    value="http://localhost:5173/"
+                    value="https://szabikiss.hu/"
                   />
                   <input type="hidden" name="_captcha" value="false" />
                 </div>

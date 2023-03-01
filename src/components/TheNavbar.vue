@@ -4,7 +4,7 @@
     class="navbar w-full fixed z-20 px-5 md:px-10"
   >
     <GlobalLayout>
-      <div class="nav-container flex items-center justify-between">
+      <div class="nav-container flex items-center justify-between 2xl:px-10">
         <div class="nav-logo w-1/4 h-full flex items-center justify-start">
           <router-link
             to="/"
